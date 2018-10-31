@@ -1,0 +1,16 @@
+echo "My name is Glen Garcia 3 and I am $USER"
+ssh-keygen
+xclip -sel clip < ~/.ssh/id_rsa.pub
+ssh-keygen
+xclip -sel clip < ~/.ssh/id_rsa.pub
+/home/Gl3nn/.ssh/id_rsa.
+sudo yum install xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+scp
+touch garcia_g_3_103118_commands.txt
+ls
+cd
+touch garcia_g_3_103118_commands.txt
+history
+history > garcia_g_3_103118_commands.txt
